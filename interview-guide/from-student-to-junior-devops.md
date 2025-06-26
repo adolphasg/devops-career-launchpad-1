@@ -248,3 +248,4 @@ These are adapted from actual interviews and scoped to a junior level.
 ## Final Thoughts
 
 This guide isn’t theory—it’s rooted in experience. Focus on building, documenting, and reflecting. If you treat DevOps as both a craft and a service to your team, you will stand out—even at the junior level.
+
