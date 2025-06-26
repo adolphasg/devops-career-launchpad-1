@@ -18,3 +18,4 @@ This repository is designed for aspiring Junior DevOps Engineers transitioning f
 2. Customize the resume template
 3. Review the interview guide regularly
 4. Build and document the projects mentioned in the guide
+

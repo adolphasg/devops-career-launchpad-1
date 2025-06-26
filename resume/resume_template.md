@@ -97,3 +97,4 @@ Entry-level DevOps Engineer transitioning from [Your Previous Field, e.g., healt
 - AWS Certified Developer – Associate – *In Progress*  
 - Certified AI Practitioner (CAIP) – *In Progress*  
 - HashiCorp Certified: Terraform Associate – *Planned*  
+
